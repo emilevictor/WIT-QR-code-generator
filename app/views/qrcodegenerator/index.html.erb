@@ -1,0 +1,38 @@
+<% roomNumber = 0 %>
+<% @roomsForView.each do |room| %>
+
+	<% roomNumber += 1 %>
+	<div class="room">
+		<%= image_tag 'witlogo.png' %>
+
+		<div class="qrTag">
+			<table>
+			<% room['qrCode'].modules.each_index do |x| -%>
+			   <tr>
+			   <% room['qrCode'].modules.each_index do |y| -%>
+			    <% if room['qrCode'].dark?(x,y) -%>
+			    <td class="black"/>
+			    <% else -%>
+			    <td class="white"/>
+			    <% end -%>
+			   <% end -%>
+			   </tr>
+			 <% end -%>
+			</table>
+
+		</div>
+
+
+		<p class="buildingRoom">
+			Building <%=@buildingForView %><br />
+			Room <%= room['roomNo'] %>
+		</p>
+	</div>
+
+	<% if roomNumber % 3 == 0 %>
+
+		<div style="clear:both;"></div>
+
+	<% end %>
+
+<% end %>

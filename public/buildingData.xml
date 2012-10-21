@@ -1,0 +1,2662 @@
+<buildings>
+  <building>
+    <id>1</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>23</number>
+    <name>Abel Smith Lecture Theatre</name>
+    <map_id>13</map_id>
+  <rooms>
+    <room>1</room>
+  </rooms>
+</building>
+  <building>
+    <id>5</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>47</number>
+    <name>Axon Building</name>
+    <map_id>62</map_id>
+  <rooms>
+    <room>104</room>
+    <room>211</room>
+    <room>210</room>
+  </rooms>
+</building>
+  <building>
+    <id>6</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>94</number>
+    <name>Biological Sciences Library</name>
+    <map_id>70</map_id>
+  <rooms>
+    <room>EZONE</room>
+  </rooms>
+</building>
+  <building>
+    <id>11</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>69</number>
+    <name>Building 69</name>
+    <map_id>28</map_id>
+  <rooms>
+    <room>110</room>
+    <room>ILC1</room>
+    <room>ILC4</room>
+    <room>804</room>
+    <room>ILC2</room>
+  </rooms>
+</building>
+  <building>
+    <id>15</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>35</number>
+    <name>Chamberlain Building</name>
+    <map_id>61</map_id>
+  <rooms>
+    <room>210</room>
+    <room>211</room>
+    <room>207</room>
+    <room>215</room>
+    <room>213</room>
+    <room>201</room>
+    <room>203</room>
+    <room>206</room>
+    <room>212</room>
+    <room>202</room>
+    <room>214</room>
+    <room>519</room>
+    <room>111</room>
+    <room>112</room>
+    <room>205</room>
+    <room>116</room>
+    <room>432</room>
+    <room>401</room>
+    <room>103</room>
+    <room>102</room>
+    <room>101</room>
+    <room>104</room>
+    <room>523</room>
+  </rooms>
+</building>
+  <building>
+    <id>16</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>68</number>
+    <name>Chemistry Building</name>
+    <map_id>54</map_id>
+  <rooms>
+    <room>320</room>
+    <room>214</room>
+    <room>408</room>
+    <room>502</room>
+    <room>220</room>
+    <room>509</room>
+    <room>621</room>
+    <room>321</room>
+  </rooms>
+</building>
+  <building>
+    <id>19</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>39</number>
+    <name>Colin Clark Building</name>
+    <map_id>26</map_id>
+  <rooms>
+    <room>103</room>
+    <room>105</room>
+    <room>106</room>
+    <room>124</room>
+  </rooms>
+</building>
+  <building>
+    <id>21</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>26</number>
+    <name>Connell Building</name>
+    <map_id>74</map_id>
+  <rooms>
+    <room>329</room>
+    <room>127</room>
+    <room>232</room>
+    <room>219</room>
+    <room>233</room>
+    <room>224</room>
+    <room>133</room>
+    <room>305</room>
+    <room>245</room>
+    <room>244</room>
+    <room>129</room>
+    <room>322B</room>
+    <room>128</room>
+    <room>128A</room>
+    <room>243</room>
+  </rooms>
+</building>
+  <building>
+    <id>27</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>74</number>
+    <name>Don Nicklin Building</name>
+    <map_id>39</map_id>
+  <rooms>
+    <room>215</room>
+    <room>203</room>
+    <room>207</room>
+    <room>116</room>
+    <room>208</room>
+  </rooms>
+</building>
+  <building>
+    <id>32</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>44</number>
+    <name>Frank White Annexe</name>
+    <map_id>49</map_id>
+  <rooms>
+    <room>162</room>
+    <room>260</room>
+    <room>253</room>
+    <room>154</room>
+    <room>251</room>
+    <room>159</room>
+  </rooms>
+</building>
+  <building>
+    <id>33</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>43</number>
+    <name>Frank White Building</name>
+    <map_id>160</map_id>
+  <rooms>
+    <room>102</room>
+    <room>105</room>
+    <room>218</room>
+    <room>104</room>
+    <room>310</room>
+  </rooms>
+</building>
+  <building>
+    <id>36</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>39A</number>
+    <name>General Purpose North 3</name>
+    <map_id>252</map_id>
+  <rooms>
+    <room>203</room>
+    <room>202</room>
+    <room>208</room>
+    <room>209</room>
+    <room>201</room>
+    <room>226</room>
+    <room>227</room>
+    <room>222</room>
+    <room>221</room>
+    <room>537</room>
+    <room>501</room>
+  </rooms>
+</building>
+  <building>
+    <id>37</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>78</number>
+    <name>General Purpose South</name>
+    <map_id>71</map_id>
+  <rooms>
+    <room>344</room>
+    <room>343</room>
+    <room>224</room>
+    <room>336</room>
+    <room>208</room>
+    <room>108</room>
+    <room>622</room>
+    <room>116</room>
+    <room>122</room>
+    <room>420</room>
+    <room>109</room>
+    <room>209</room>
+    <room>117</room>
+  </rooms>
+</building>
+  <building>
+    <id>39</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>32</number>
+    <name>Gordon Greenwood Building</name>
+    <map_id>30</map_id>
+  <rooms>
+    <room>215</room>
+    <room>214</room>
+    <room>213</room>
+    <room>208</room>
+    <room>211</room>
+    <room>207</room>
+    <room>312</room>
+    <room>209</room>
+    <room>309</room>
+    <room>212</room>
+    <room>308</room>
+    <room>314</room>
+    <room>310</room>
+    <room>311</room>
+    <room>210</room>
+    <room>607</room>
+    <room>313</room>
+  </rooms>
+</building>
+  <building>
+    <id>41</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>83</number>
+    <name>Hartley Teakle Building</name>
+    <map_id>63</map_id>
+  <rooms>
+    <room>S302</room>
+    <room>C415</room>
+    <room>C516</room>
+    <room>C511</room>
+    <room>C412</room>
+    <room>S437</room>
+    <room>S429</room>
+    <room>N325</room>
+    <room>S301</room>
+    <room>C512</room>
+    <room>C413</room>
+    <room>C416</room>
+    <room>C310</room>
+    <room>N404</room>
+    <room>S524</room>
+    <room>N324</room>
+    <room>S430</room>
+    <room>C309</room>
+    <room>C308</room>
+  </rooms>
+</building>
+  <building>
+    <id>42</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>50</number>
+    <name>Hawken Engineering Building</name>
+    <map_id>25</map_id>
+  <rooms>
+    <room>N201</room>
+    <room>N202</room>
+    <room>T105</room>
+    <room>T103</room>
+    <room>S201</room>
+    <room>N301</room>
+    <room>T203</room>
+    <room>C406</room>
+    <room>S202</room>
+    <room>S102</room>
+    <room>S105</room>
+    <room>S511</room>
+    <room>S106</room>
+    <room>C207</room>
+    <room>C403</room>
+    <room>C404</room>
+  </rooms>
+</building>
+  <building>
+    <id>43</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>26B</number>
+    <name>Human Movement Studies Building</name>
+    <map_id>234</map_id>
+  <rooms>
+    <room>219</room>
+  </rooms>
+</building>
+  <building>
+    <id>46</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36A</number>
+    <name>International House</name>
+    <map_id>115</map_id>
+  <rooms>
+    <room>0</room>
+  </rooms>
+</building>
+  <building>
+    <id>50</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>37</number>
+    <name>Joyce Ackroyd Building</name>
+    <map_id>59</map_id>
+  <rooms>
+    <room>115</room>
+    <room>208</room>
+    <room>430</room>
+    <room>120</room>
+    <room>114</room>
+    <room>215</room>
+    <room>113</room>
+  </rooms>
+</building>
+  <building>
+    <id>53</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>45</number>
+    <name>Mansergh Shaw Building</name>
+    <map_id>48</map_id>
+  <rooms>
+    <room>204</room>
+    <room>101</room>
+    <room>205</room>
+    <room>106</room>
+    <room>207</room>
+    <room>LAB</room>
+  </rooms>
+</building>
+  <building>
+    <id>55</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>24A</number>
+    <name>McElwain Building</name>
+    <map_id>60</map_id>
+  <rooms>
+    <room>304</room>
+    <room>305</room>
+    <room>204</room>
+    <room>202</room>
+    <room>209</room>
+    <room>201</room>
+    <room>203/204</room>
+    <room>203</room>
+    <room>202/203</room>
+    <room>304/305</room>
+    <room>228</room>
+  </rooms>
+</building>
+  <building>
+    <id>57</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>76</number>
+    <name>Molecular Biosciences Building</name>
+    <map_id>52</map_id>
+  <rooms>
+    <room>213</room>
+    <room>363</room>
+    <room>363A</room>
+    <room>ILC5</room>
+    <room>224</room>
+    <room>228</room>
+    <room>212</room>
+  </rooms>
+</building>
+  <building>
+    <id>61</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>81</number>
+    <name>Otto Hirschfeld Building</name>
+    <map_id>50</map_id>
+  <rooms>
+    <room>214</room>
+    <room>210</room>
+    <room>304</room>
+    <room>412</room>
+  </rooms>
+</building>
+  <building>
+    <id>65</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>63</number>
+    <name>Physiology Lecture Theatres</name>
+    <map_id>161</map_id>
+  <rooms>
+    <room>348</room>
+    <room>358</room>
+    <room>360</room>
+  </rooms>
+</building>
+  <building>
+    <id>67</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>42</number>
+    <name>Prentice Building</name>
+    <map_id>24</map_id>
+  <rooms>
+    <room>123</room>
+  </rooms>
+</building>
+  <building>
+    <id>68</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>67</number>
+    <name>Priestley Building</name>
+    <map_id>38</map_id>
+  <rooms>
+    <room>141</room>
+    <room>342</room>
+    <room>343</room>
+    <room>142</room>
+    <room>443</room>
+    <room>542</room>
+    <room>641</room>
+    <room>442</room>
+  </rooms>
+</building>
+  <building>
+    <id>69</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>80</number>
+    <name>Queensland Bioscience Precinct</name>
+    <map_id>255</map_id>
+  <rooms>
+    <room>2171</room>
+  </rooms>
+</building>
+  <building>
+    <id>74</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>22</number>
+    <name>Schonell Theatre</name>
+    <map_id>11</map_id>
+  <rooms>
+    <room>201</room>
+    <room>005</room>
+  </rooms>
+</building>
+  <building>
+    <id>77</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>47A</number>
+    <name>Sir James Foots Building</name>
+    <map_id>264</map_id>
+  <rooms>
+    <room>241</room>
+    <room>141</room>
+    <room>341</room>
+    <room>351</room>
+    <room>352</room>
+    <room>249</room>
+    <room>250</room>
+  </rooms>
+</building>
+  <building>
+    <id>78</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>14</number>
+    <name>Sir Llew Edwards Building</name>
+    <map_id>280</map_id>
+  <rooms>
+    <room>115</room>
+    <room>217</room>
+    <room>216</room>
+    <room>132</room>
+    <room>116</room>
+    <room>219</room>
+    <room>212</room>
+  </rooms>
+</building>
+  <building>
+    <id>79</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>64</number>
+    <name>Sir William MacGregor Building</name>
+    <map_id>56</map_id>
+  <rooms>
+    <room>LAB</room>
+    <room>204</room>
+    <room>520A</room>
+  </rooms>
+</building>
+  <building>
+    <id>80</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>65</number>
+    <name>Skerman Building</name>
+    <map_id>57</map_id>
+  <rooms>
+    <room>305</room>
+  </rooms>
+</building>
+  <building>
+    <id>81</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>31A</number>
+    <name>Social Sciences Annexe</name>
+    <map_id>34</map_id>
+  <rooms>
+    <room>ANX2</room>
+    <room>ANX3</room>
+    <room>205</room>
+    <room>206</room>
+  </rooms>
+</building>
+  <building>
+    <id>82</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>24</number>
+    <name>Social Sciences Building</name>
+    <map_id>66</map_id>
+  <rooms>
+    <room>S402</room>
+    <room>S603</room>
+    <room>S304</room>
+    <room>S303</room>
+    <room>S328</room>
+    <room>S502</room>
+    <room>S506</room>
+    <room>S302</room>
+    <room>S504</room>
+  </rooms>
+</building>
+  <building>
+    <id>84</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36F</number>
+    <name>St Leo's College</name>
+    <map_id>118</map_id>
+  <rooms>
+    <room>0</room>
+  </rooms>
+</building>
+  <building>
+    <id>88</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>84A</number>
+    <name>Therapies Annexe</name>
+    <map_id>237</map_id>
+  <rooms>
+    <room>406</room>
+    <room>624</room>
+    <room>325</room>
+    <room>623</room>
+    <room>304</room>
+    <room>408</room>
+    <room>509</room>
+  </rooms>
+</building>
+  <building>
+    <id>89</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>84</number>
+    <name>Therapies Building</name>
+    <map_id>47</map_id>
+  <rooms>
+    <room>128</room>
+    <room>129</room>
+  </rooms>
+</building>
+  <building>
+    <id>92</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>27A</number>
+    <name>UQ Centre</name>
+    <map_id>254</map_id>
+  <rooms>
+    <room>220</room>
+  </rooms>
+</building>
+  <building>
+    <id>96</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>51</number>
+    <name>Zelman Cowen Building</name>
+    <map_id>58</map_id>
+  <rooms>
+    <room>329B</room>
+    <room>480A</room>
+    <room>508</room>
+    <room>346</room>
+    <room>513</room>
+    <room>345</room>
+    <room>207</room>
+    <room>460</room>
+    <room>434</room>
+    <room>458</room>
+    <room>413</room>
+    <room>414</room>
+    <room>223</room>
+    <room>481</room>
+    <room>511</room>
+  </rooms>
+</building>
+  <building>
+    <id>100</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>82F</number>
+    <name>Kathleen Lambourne</name>
+    <map_id/>
+  <rooms>
+    <room>101</room>
+  </rooms>
+</building>
+  <building>
+    <id>104</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number/>
+    <name>&#160;</name>
+    <map_id/>
+  <rooms>
+    <room>&#160;</room>
+  </rooms>
+</building>
+  <building>
+    <id>105</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>82D</number>
+    <name>Seddon - Lecture Theatre</name>
+    <map_id/>
+  <rooms>
+    <room>101</room>
+    <room>301</room>
+  </rooms>
+</building>
+  <building>
+    <id>106</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8116</number>
+    <name>Ag Mech Building B</name>
+    <map_id/>
+  <rooms>
+    <room>WORKSHOP</room>
+  </rooms>
+</building>
+  <building>
+    <id>107</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8117</number>
+    <name>Management Studies</name>
+    <map_id/>
+  <rooms>
+    <room>117</room>
+    <room>118</room>
+    <room>116</room>
+    <room>219</room>
+    <room>218</room>
+    <room>220</room>
+    <room>119</room>
+    <room>106</room>
+  </rooms>
+</building>
+  <building>
+    <id>108</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8106</number>
+    <name>John Mahon Food Studies II</name>
+    <map_id/>
+  <rooms>
+    <room>211</room>
+    <room>113</room>
+    <room>213</room>
+    <room>135</room>
+    <room>126</room>
+    <room>112</room>
+  </rooms>
+</building>
+  <building>
+    <id>109</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8159</number>
+    <name>Computer Annexe</name>
+    <map_id/>
+  <rooms>
+    <room>103</room>
+    <room>101</room>
+  </rooms>
+</building>
+  <building>
+    <id>110</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8107</number>
+    <name>Plant Protection Building</name>
+    <map_id/>
+  <rooms>
+    <room>104</room>
+    <room>116</room>
+  </rooms>
+</building>
+  <building>
+    <id>111</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8255</number>
+    <name>WP Hamon Memorial Centre</name>
+    <map_id/>
+  <rooms>
+    <room>105</room>
+    <room>103</room>
+  </rooms>
+</building>
+  <building>
+    <id>112</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8111</number>
+    <name>Plant Industries Building</name>
+    <map_id/>
+  <rooms>
+    <room>231</room>
+    <room>236</room>
+    <room>237</room>
+    <room>113</room>
+    <room>208</room>
+    <room>213</room>
+  </rooms>
+</building>
+  <building>
+    <id>113</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8178</number>
+    <name>Main Lecture Theatre</name>
+    <map_id/>
+  <rooms>
+    <room>1</room>
+  </rooms>
+</building>
+  <building>
+    <id>117</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6212</number>
+    <name>Building No.12</name>
+    <map_id/>
+  <rooms>
+    <room>116</room>
+    <room>209</room>
+    <room>210</room>
+    <room>208</room>
+    <room>113</room>
+    <room>309A</room>
+    <room>309B</room>
+    <room>206</room>
+    <room>109</room>
+    <room>112</room>
+  </rooms>
+</building>
+  <building>
+    <id>118</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6211</number>
+    <name>Building No.11</name>
+    <map_id/>
+  <rooms>
+    <room>131</room>
+  </rooms>
+</building>
+  <building>
+    <id>119</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6208</number>
+    <name>Building No.8</name>
+    <map_id/>
+  <rooms>
+    <room>123A</room>
+    <room>123B</room>
+  </rooms>
+</building>
+  <building>
+    <id>120</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6201</number>
+    <name>Building No.1</name>
+    <map_id/>
+  <rooms>
+    <room>210</room>
+    <room>366</room>
+    <room>224</room>
+    <room>353</room>
+    <room>365</room>
+    <room>307</room>
+    <room>352</room>
+    <room>209</room>
+  </rooms>
+</building>
+  <building>
+    <id>121</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8214</number>
+    <name>Farm Services Building</name>
+    <map_id/>
+  <rooms>
+    <room>102</room>
+    <room>HORSE TY</room>
+    <room>101</room>
+  </rooms>
+</building>
+  <building>
+    <id>122</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>GATTON</number>
+    <name>Temporary Building</name>
+    <map_id/>
+  <rooms>
+    <room>FIELD</room>
+  </rooms>
+</building>
+  <building>
+    <id>123</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>51A</number>
+    <name>Collaborative Design Lab</name>
+    <map_id/>
+  <rooms>
+    <room>101</room>
+  </rooms>
+</building>
+  <building>
+    <id>124</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6214</number>
+    <name>Building No.14</name>
+    <map_id/>
+  <rooms>
+    <room>202</room>
+  </rooms>
+</building>
+  <building>
+    <id>125</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>82K</number>
+    <name>Seddon - Centre (South)</name>
+    <map_id/>
+  <rooms>
+    <room>104</room>
+  </rooms>
+</building>
+  <building>
+    <id>126</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>82C</number>
+    <name>Seddon - North</name>
+    <map_id/>
+  <rooms>
+    <room>101</room>
+  </rooms>
+</building>
+  <building>
+    <id>127</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6215</number>
+    <name>Building No.15</name>
+    <map_id/>
+  <rooms>
+    <room>103</room>
+    <room>102</room>
+  </rooms>
+</building>
+  <building>
+    <id>128</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6202</number>
+    <name>Building No.2</name>
+    <map_id/>
+  <rooms>
+    <room>107</room>
+    <room>108</room>
+  </rooms>
+</building>
+  <building>
+    <id>129</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6219</number>
+    <name>Building No.19</name>
+    <map_id/>
+  <rooms>
+    <room>102</room>
+  </rooms>
+</building>
+  <building>
+    <id>130</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>CP1</number>
+    <name>Central Plaza 1</name>
+    <map_id/>
+  <rooms>
+    <room>MBA</room>
+    <room>SRE</room>
+    <room>B</room>
+    <room>SRW</room>
+  </rooms>
+</building>
+  <building>
+    <id>131</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8124</number>
+    <name>Homestead Building</name>
+    <map_id/>
+  <rooms>
+    <room>1</room>
+  </rooms>
+</building>
+  <building>
+    <id>132</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>82A</number>
+    <name>Seddon South</name>
+    <map_id/>
+  <rooms>
+    <room>101</room>
+    <room>106</room>
+  </rooms>
+</building>
+  <building>
+    <id>133</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6218</number>
+    <name>Building No.18</name>
+    <map_id/>
+  <rooms>
+    <room>101</room>
+  </rooms>
+</building>
+  <building>
+    <id>134</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6217</number>
+    <name>Building No.17</name>
+    <map_id/>
+  <rooms>
+    <room>101</room>
+  </rooms>
+</building>
+  <building>
+    <id>135</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>UQEM</number>
+    <name>UQ Experimental Mine</name>
+    <map_id/>
+  <rooms>
+    <room>UQEM</room>
+  </rooms>
+</building>
+  <building>
+    <id>136</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>0870</number>
+    <name>PACE</name>
+    <map_id/>
+  <rooms>
+    <room>5061</room>
+    <room>5051</room>
+    <room>5052</room>
+    <room>5057</room>
+    <room>5039</room>
+    <room>5038</room>
+    <room>5002</room>
+    <room>5003</room>
+    <room>5019</room>
+    <room>5036</room>
+    <room>5034</room>
+    <room>5035</room>
+  </rooms>
+</building>
+  <building>
+    <id>138</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>17</number>
+    <name>Undergraduate Education</name>
+    <map_id>301</map_id>
+  <rooms>
+    <room>202A</room>
+    <room>202</room>
+  </rooms>
+</building>
+  <building>
+    <id>139</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>82B</number>
+    <name>Seddon - Centre Block</name>
+    <map_id/>
+  <rooms>
+    <room>103</room>
+  </rooms>
+</building>
+  <building>
+    <id>140</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8164</number>
+    <name>Continuing Education Building</name>
+    <map_id/>
+  <rooms>
+    <room>105</room>
+  </rooms>
+</building>
+  <building>
+    <id>197</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>91C</number>
+    <name>Alumni Centre</name>
+    <map_id>194</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>198</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>16</number>
+    <name>Alumni Court</name>
+    <map_id>284</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>199</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>75</number>
+    <name>Australian Institute for Bioengineering and Nanotechnology</name>
+    <map_id>270</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>200</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>4</number>
+    <name>Wordsmiths</name>
+    <map_id>127</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>201</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>61A</number>
+    <name>Brian Wilson Chancellery</name>
+    <map_id>10</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>202</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>33</number>
+    <name>Building 33</name>
+    <map_id>243</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>203</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>54</number>
+    <name>Building 54</name>
+    <map_id>249</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>204</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>96</number>
+    <name>Building 96</name>
+    <map_id>142</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>205</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>97</number>
+    <name>Building 97</name>
+    <map_id>151</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>206</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>73</number>
+    <name>Campus Kindergarten</name>
+    <map_id>136</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>207</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>28A</number>
+    <name>CityCat Terminal</name>
+    <map_id>192</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>208</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>48</number>
+    <name>Civil Engineering Laboratories</name>
+    <map_id>40</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>209</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>98D</number>
+    <name>Conifer Knoll Parking Station</name>
+    <map_id>266</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>210</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36B</number>
+    <name>Cromwell College</name>
+    <map_id>111</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>211</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>80B</number>
+    <name>CSIRO Car Park</name>
+    <map_id>257</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>212</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>80A</number>
+    <name>CSIRO Controlled Environment Facility</name>
+    <map_id>256</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>213</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>72</number>
+    <name>Cumbrae-Stewart Building</name>
+    <map_id>77</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>214</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36G</number>
+    <name>Duchesne College</name>
+    <map_id>112</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>215</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>2</number>
+    <name>Duhig Building</name>
+    <map_id>69</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>216</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36D</number>
+    <name>Emmanuel College</name>
+    <map_id>113</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>217</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>1</number>
+    <name>Forgan Smith Building</name>
+    <map_id>27</map_id>
+  <rooms>
+    <room>E212</room>
+    <room>E219</room>
+    <room>E301</room>
+    <room>E108</room>
+    <room>E348</room>
+    <room>E302</room>
+    <room>E107</room>
+    <room>E215</room>
+    <room>E303</room>
+    <room>E217</room>
+    <room>E232</room>
+    <room>E109</room>
+    <room>E105</room>
+    <room>E319</room>
+    <room>W229</room>
+    <room>W408</room>
+    <room>W343</room>
+    <room>W331</room>
+    <room>W409</room>
+    <room>E356</room>
+  </rooms>
+</building>
+  <building>
+    <id>218</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>86</number>
+    <name>Gardeners' Compound</name>
+    <map_id>215</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>219</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>60</number>
+    <name>Gehrmann Laboratories</name>
+    <map_id>42</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>220</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>8</number>
+    <name>Goddard Building</name>
+    <map_id>53</map_id>
+  <rooms>
+    <room>139</room>
+    <room>388</room>
+    <room>305</room>
+    <room>217</room>
+    <room>385</room>
+    <room>257</room>
+    <room>255</room>
+    <room>212</room>
+    <room>307</room>
+  </rooms>
+</building>
+  <building>
+    <id>221</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36</number>
+    <name>Grace College</name>
+    <map_id>114</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>222</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>26A</number>
+    <name>Squash Centre</name>
+    <map_id>201</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>223</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>85</number>
+    <name>Industrial Centre</name>
+    <map_id>22</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>224</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>61</number>
+    <name>J. D. Story Building</name>
+    <map_id>5</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>225</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>11</number>
+    <name>James and Mary Emelia Mayne Centre</name>
+    <map_id>150</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>226</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>62</number>
+    <name>John Hines Building</name>
+    <map_id>51</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>227</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36C</number>
+    <name>King's College</name>
+    <map_id>116</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>228</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>58A</number>
+    <name>Lakes Bus Station</name>
+    <map_id>276</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>229</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>93B</number>
+    <name>Margaret Cribb Child Care Centre</name>
+    <map_id>154</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>230</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>9</number>
+    <name>Michie Building</name>
+    <map_id>55</map_id>
+  <rooms>
+    <room>221</room>
+    <room>217</room>
+    <room>201</room>
+    <room>216</room>
+    <room>803</room>
+    <room>218</room>
+    <room>211</room>
+    <room>222</room>
+    <room>210</room>
+    <room>325</room>
+    <room>601</room>
+    <room>740</room>
+    <room>836</room>
+    <room>219</room>
+    <room>220</room>
+    <room>701</room>
+    <room>801</room>
+    <room>443</room>
+    <room>536</room>
+  </rooms>
+</building>
+  <building>
+    <id>231</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>98A</number>
+    <name>Multi-level Car Park 1</name>
+    <map_id>16</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>232</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>98B</number>
+    <name>Multi-level Car Park 2</name>
+    <map_id>36</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>233</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>93A</number>
+    <name>Munro Centre</name>
+    <map_id>31</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>234</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>29A</number>
+    <name>Oval 5</name>
+    <map_id>200</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>235</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>7</number>
+    <name>Parnell Building</name>
+    <map_id>6</map_id>
+  <rooms>
+    <room>326</room>
+    <room>234</room>
+    <room>222</room>
+    <room>302</room>
+    <room>301</room>
+    <room>209</room>
+    <room>213</room>
+    <room>207</room>
+    <room>204</room>
+    <room>217</room>
+    <room>220</room>
+    <room>328</room>
+    <room>329</room>
+  </rooms>
+</building>
+  <building>
+    <id>236</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>6</number>
+    <name>Physics Annexe</name>
+    <map_id>44</map_id>
+  <rooms>
+    <room>407</room>
+  </rooms>
+</building>
+  <building>
+    <id>237</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>63A</number>
+    <name>Physiology Refectory</name>
+    <map_id>155</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>238</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>21</number>
+    <name>Student Union Complex</name>
+    <map_id>35</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>239</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>21D</number>
+    <name>Relaxation Block - D</name>
+    <map_id>179</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>240</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>5</number>
+    <name>Richards Building</name>
+    <map_id>46</map_id>
+  <rooms>
+    <room>207</room>
+    <room>213</room>
+  </rooms>
+</building>
+  <building>
+    <id>241</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>64A</number>
+    <name>Ritchie Research Laboratories</name>
+    <map_id>43</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>242</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>87A</number>
+    <name>Security Annexe</name>
+    <map_id>135</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>243</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>82</number>
+    <name>Seddon Buildings</name>
+    <map_id>37</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>244</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36E</number>
+    <name>St John's College</name>
+    <map_id>76</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>245</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>3</number>
+    <name>Steele Building</name>
+    <map_id>45</map_id>
+  <rooms>
+    <room>206</room>
+    <room>237</room>
+    <room>309</room>
+    <room>329</room>
+    <room>323</room>
+    <room>318</room>
+    <room>320</room>
+    <room>221/222</room>
+    <room>232</room>
+    <room>222</room>
+    <room>221</room>
+    <room>321</room>
+    <room>228</room>
+  </rooms>
+</building>
+  <building>
+    <id>246</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>90</number>
+    <name>Teaching and Educational Development Institute</name>
+    <map_id>304</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>247</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36H</number>
+    <name>The Women's College</name>
+    <map_id>120</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>248</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>36J</number>
+    <name>Union College</name>
+    <map_id>119</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>249</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>41</number>
+    <name>University of Queensland Club</name>
+    <map_id>109</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>250</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>38</number>
+    <name>UQ Multi-Faith Chaplaincy Centre</name>
+    <map_id>159</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>251</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>25</number>
+    <name>UQ Sport and Fitness Centre</name>
+    <map_id>199</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>252</id>
+    <campus>
+      <code>STLUC</code>
+      <name>St Lucia</name>
+    </campus>
+    <number>99</number>
+    <name>Warehouse, Book Repository and Solvent Store</name>
+    <map_id>133</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>253</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>1</number>
+    <name>Building  No. 1</name>
+    <map_id>139</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>254</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>36</number>
+    <name>Building 36</name>
+    <map_id>287</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>255</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>10</number>
+    <name>Building No. 10</name>
+    <map_id>172</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>256</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>12</number>
+    <name>Building No. 12</name>
+    <map_id>202</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>257</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>13</number>
+    <name>Building No. 13</name>
+    <map_id>203</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>258</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>14</number>
+    <name>Building No. 14</name>
+    <map_id>204</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>259</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>15</number>
+    <name>Building No. 15</name>
+    <map_id>205</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>260</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>17</number>
+    <name>Building No. 17</name>
+    <map_id>206</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>261</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>18</number>
+    <name>Building No. 18</name>
+    <map_id>207</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>262</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>19</number>
+    <name>Building No. 19</name>
+    <map_id>208</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>263</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>2</number>
+    <name>Building No. 2</name>
+    <map_id>163</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>264</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>21A</number>
+    <name>Building No. 21</name>
+    <map_id>210</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>265</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>21B</number>
+    <name>Building No. 21B</name>
+    <map_id>211</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>266</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>22</number>
+    <name>Building No. 22</name>
+    <map_id>209</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>267</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>28</number>
+    <name>Building No. 28</name>
+    <map_id>212</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>268</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>3</number>
+    <name>Building No. 3</name>
+    <map_id>143</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>269</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>38</number>
+    <name>Building No. 38</name>
+    <map_id>261</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>270</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>4</number>
+    <name>Building No. 4</name>
+    <map_id>144</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>271</id>
+    <campus>
+      <code>IPSWC</code>
+      <name>Ipswich</name>
+    </campus>
+    <number>8</number>
+    <name>Building No. 8</name>
+    <map_id>259</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>272</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8115</number>
+    <name>Agricultural Engineering A Building</name>
+    <map_id>96</map_id>
+  <rooms>
+    <room>102</room>
+    <room>108</room>
+  </rooms>
+</building>
+  <building>
+    <id>273</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8112</number>
+    <name>Agronomy Annexe</name>
+    <map_id>226</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>274</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8103</number>
+    <name>Animal Industries Building</name>
+    <map_id>97</map_id>
+  <rooms>
+    <room>144</room>
+    <room>132</room>
+    <room>139</room>
+    <room>133</room>
+  </rooms>
+</building>
+  <building>
+    <id>275</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8150</number>
+    <name>Animal Studies Building</name>
+    <map_id>68</map_id>
+  <rooms>
+    <room>140</room>
+    <room>128</room>
+    <room>153</room>
+    <room>131</room>
+  </rooms>
+</building>
+  <building>
+    <id>276</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8349</number>
+    <name>Bosworth Student Club</name>
+    <map_id>235</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>277</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8114</number>
+    <name>Veterinary Science </name>
+    <map_id>288</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>278</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8117A</number>
+    <name>Building 117A</name>
+    <map_id>253</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>279</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8126</number>
+    <name>Building 126</name>
+    <map_id>271</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>280</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>179</number>
+    <name>Building 179</name>
+    <map_id>293</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>281</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>360</number>
+    <name>Centre for Advanced Animal Science</name>
+    <map_id>294</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>282</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>123</number>
+    <name>Morrison Hall</name>
+    <map_id>168</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>283</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>159</number>
+    <name>Computer Annexe</name>
+    <map_id>229</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>284</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>125</number>
+    <name>Dining Hall</name>
+    <map_id>175</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>285</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>126</number>
+    <name>Distance Education Centre</name>
+    <map_id>169</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>286</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>214</number>
+    <name>Farm Square</name>
+    <map_id>231</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>287</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>118</number>
+    <name>Foundation Building</name>
+    <map_id>33</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>288</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>182</number>
+    <name>Free Range Kids Child Care Centre</name>
+    <map_id>153</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>289</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>152</number>
+    <name>Gatton Motel</name>
+    <map_id>250</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>290</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>153</number>
+    <name>Grounds Maintenance Shed</name>
+    <map_id>214</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>291</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>144</number>
+    <name>Gymnasium and Squash Courts</name>
+    <map_id>176</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>292</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>102</number>
+    <name>J.K. Murray Library</name>
+    <map_id>106</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>293</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>218</number>
+    <name>Jack Jones Maintenance Building</name>
+    <map_id>131</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>294</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>178</number>
+    <name>Main Lecture Theatre</name>
+    <map_id>230</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>295</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>146</number>
+    <name>Medical Centre Annex</name>
+    <map_id>246</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>296</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>101</number>
+    <name>N.W. Briton Administration Centre</name>
+    <map_id>73</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>297</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>101A</number>
+    <name>N.W. Briton Administration Centre Annexe</name>
+    <map_id>138</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>298</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>117</number>
+    <name>Natural and Rural Systems Management Building</name>
+    <map_id>102</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>299</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>335</number>
+    <name>Piggery</name>
+    <map_id>232</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>300</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>111</number>
+    <name>Plant Industries Building</name>
+    <map_id>100</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>301</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>138</number>
+    <name>Plant Nursery</name>
+    <map_id>228</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>302</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>107</number>
+    <name>Plant Protection Building</name>
+    <map_id>101</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>303</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>131</number>
+    <name>Printery</name>
+    <map_id>134</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>304</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>157</number>
+    <name>Property and Facilities Annex</name>
+    <map_id>132</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>305</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>129</number>
+    <name>Sir Leslie Wilson Hall</name>
+    <map_id>227</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>306</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>209</number>
+    <name>Transport Office</name>
+    <map_id>213</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>307</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>8156</number>
+    <name>UQ Veterinary Medical Centre</name>
+    <map_id>295</map_id>
+  <rooms>
+  </rooms>
+</building>
+  <building>
+    <id>308</id>
+    <campus>
+      <code>GATTN</code>
+      <name>Gatton</name>
+    </campus>
+    <number>134</number>
+    <name>White House</name>
+    <map_id>269</map_id>
+  <rooms>
+  </rooms>
+</building>
+</buildings>

@@ -22,6 +22,13 @@ end
 
 gem 'jquery-rails'
 
+#For qr code generation
+gem 'rqrcode'
+
+gem 'xml-simple'
+
+gem 'ruby-debug19'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
